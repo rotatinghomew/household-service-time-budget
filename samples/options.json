@@ -5,14 +5,16 @@
         520,
         680
       ],
-      "delegate": true
+      "delegate": true,
+      "duration": 14
     },
     "登记": {
       "window": [
         700,
         850
       ],
-      "delegate": true
+      "delegate": true,
+      "duration": 22
     },
     "joint": false
   },
@@ -22,14 +24,16 @@
         575,
         710
       ],
-      "delegate": false
+      "delegate": false,
+      "duration": 14
     },
     "登记": {
       "window": [
         600,
         740
       ],
-      "delegate": true
+      "delegate": true,
+      "duration": 22
     },
     "joint": true
   }

@@ -20,3 +20,6 @@ class SampleTests(unittest.TestCase):
     def test_late_response_and_cross_day_diaries(self):
         self.assertTrue(any(row['received'] > self.data['policy']['initial_cutoff'] for row in self.data['diary']))
         self.assertTrue(any(row['end'] is not None and row['start'] < 1440 < row['end'] for row in self.data['events']))
+        for row in self.data['frame']:
+            self.assertEqual(set(row['available']), set(row['persons']))
+            self.assertIn('return', self.data['transport'][row['stratum']])
