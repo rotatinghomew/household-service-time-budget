@@ -1,0 +1,36 @@
+{
+  "分开办": {
+    "证件": {
+      "window": [
+        520,
+        680
+      ],
+      "delegate": true
+    },
+    "登记": {
+      "window": [
+        700,
+        850
+      ],
+      "delegate": true
+    },
+    "joint": false
+  },
+  "集中办": {
+    "证件": {
+      "window": [
+        575,
+        710
+      ],
+      "delegate": false
+    },
+    "登记": {
+      "window": [
+        600,
+        740
+      ],
+      "delegate": true
+    },
+    "joint": true
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "initial_cutoff": "2026-09-20",
+  "followup_cutoff": "2026-10-01",
+  "protected_max_increase_unfinished": 0,
+  "missing_minutes_bounds": [
+    0,
+    180
+  ],
+  "shared_trip_split": "已完事项等分；没有已完事项不分给事项"
+}

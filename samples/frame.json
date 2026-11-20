@@ -1,0 +1,866 @@
+[
+  {
+    "id": "户000",
+    "stratum": "山上",
+    "weight": 6,
+    "answer": false,
+    "protected": true,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户001",
+    "stratum": "场边",
+    "weight": 11,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户002",
+    "stratum": "河岸",
+    "weight": 17,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户003",
+    "stratum": "山上",
+    "weight": 6,
+    "answer": false,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户004",
+    "stratum": "场边",
+    "weight": 11,
+    "answer": true,
+    "protected": true,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户005",
+    "stratum": "河岸",
+    "weight": 17,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户006",
+    "stratum": "山上",
+    "weight": 6,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户007",
+    "stratum": "场边",
+    "weight": 11,
+    "answer": false,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户008",
+    "stratum": "河岸",
+    "weight": 17,
+    "answer": true,
+    "protected": true,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户009",
+    "stratum": "山上",
+    "weight": 6,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户010",
+    "stratum": "场边",
+    "weight": 11,
+    "answer": false,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户011",
+    "stratum": "河岸",
+    "weight": 17,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户012",
+    "stratum": "山上",
+    "weight": 6,
+    "answer": true,
+    "protected": true,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户013",
+    "stratum": "场边",
+    "weight": 11,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户014",
+    "stratum": "河岸",
+    "weight": 17,
+    "answer": false,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户015",
+    "stratum": "山上",
+    "weight": 6,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户016",
+    "stratum": "场边",
+    "weight": 11,
+    "answer": true,
+    "protected": true,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户017",
+    "stratum": "河岸",
+    "weight": 17,
+    "answer": false,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户018",
+    "stratum": "山上",
+    "weight": 6,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户019",
+    "stratum": "场边",
+    "weight": 11,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户020",
+    "stratum": "河岸",
+    "weight": 17,
+    "answer": true,
+    "protected": true,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户021",
+    "stratum": "山上",
+    "weight": 6,
+    "answer": false,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户022",
+    "stratum": "场边",
+    "weight": 11,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户023",
+    "stratum": "河岸",
+    "weight": 17,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户024",
+    "stratum": "山上",
+    "weight": 6,
+    "answer": false,
+    "protected": true,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户025",
+    "stratum": "场边",
+    "weight": 11,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户026",
+    "stratum": "河岸",
+    "weight": 17,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户027",
+    "stratum": "山上",
+    "weight": 6,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户028",
+    "stratum": "场边",
+    "weight": 11,
+    "answer": false,
+    "protected": true,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户029",
+    "stratum": "河岸",
+    "weight": 17,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户030",
+    "stratum": "山上",
+    "weight": 6,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户031",
+    "stratum": "场边",
+    "weight": 11,
+    "answer": false,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户032",
+    "stratum": "河岸",
+    "weight": 17,
+    "answer": true,
+    "protected": true,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户033",
+    "stratum": "山上",
+    "weight": 6,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户034",
+    "stratum": "场边",
+    "weight": 11,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户035",
+    "stratum": "河岸",
+    "weight": 17,
+    "answer": false,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户036",
+    "stratum": "山上",
+    "weight": 6,
+    "answer": true,
+    "protected": true,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户037",
+    "stratum": "场边",
+    "weight": 11,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户038",
+    "stratum": "河岸",
+    "weight": 17,
+    "answer": false,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户039",
+    "stratum": "山上",
+    "weight": 6,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户040",
+    "stratum": "场边",
+    "weight": 11,
+    "answer": true,
+    "protected": true,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户041",
+    "stratum": "河岸",
+    "weight": 17,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户042",
+    "stratum": "山上",
+    "weight": 6,
+    "answer": false,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户043",
+    "stratum": "场边",
+    "weight": 11,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户044",
+    "stratum": "河岸",
+    "weight": 17,
+    "answer": true,
+    "protected": true,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户045",
+    "stratum": "山上",
+    "weight": 6,
+    "answer": false,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户046",
+    "stratum": "场边",
+    "weight": 11,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户047",
+    "stratum": "河岸",
+    "weight": 17,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户048",
+    "stratum": "山上",
+    "weight": 6,
+    "answer": true,
+    "protected": true,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户049",
+    "stratum": "场边",
+    "weight": 11,
+    "answer": false,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户050",
+    "stratum": "河岸",
+    "weight": 17,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户051",
+    "stratum": "山上",
+    "weight": 6,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户052",
+    "stratum": "场边",
+    "weight": 11,
+    "answer": false,
+    "protected": true,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户053",
+    "stratum": "河岸",
+    "weight": 17,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户054",
+    "stratum": "山上",
+    "weight": 6,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户055",
+    "stratum": "场边",
+    "weight": 11,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户056",
+    "stratum": "河岸",
+    "weight": 17,
+    "answer": false,
+    "protected": true,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户057",
+    "stratum": "山上",
+    "weight": 6,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户058",
+    "stratum": "场边",
+    "weight": 11,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户059",
+    "stratum": "河岸",
+    "weight": 17,
+    "answer": false,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户060",
+    "stratum": "山上",
+    "weight": 6,
+    "answer": true,
+    "protected": true,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户061",
+    "stratum": "场边",
+    "weight": 11,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户062",
+    "stratum": "河岸",
+    "weight": 17,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户063",
+    "stratum": "山上",
+    "weight": 6,
+    "answer": false,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户064",
+    "stratum": "场边",
+    "weight": 11,
+    "answer": true,
+    "protected": true,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户065",
+    "stratum": "河岸",
+    "weight": 17,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户066",
+    "stratum": "山上",
+    "weight": 6,
+    "answer": false,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户067",
+    "stratum": "场边",
+    "weight": 11,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户068",
+    "stratum": "河岸",
+    "weight": 17,
+    "answer": true,
+    "protected": true,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户069",
+    "stratum": "山上",
+    "weight": 6,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户070",
+    "stratum": "场边",
+    "weight": 11,
+    "answer": false,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  },
+  {
+    "id": "户071",
+    "stratum": "河岸",
+    "weight": 17,
+    "answer": true,
+    "protected": false,
+    "persons": [
+      "长辈",
+      "代办人",
+      "同行者"
+    ]
+  }
+]

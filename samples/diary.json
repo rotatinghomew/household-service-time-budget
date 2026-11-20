@@ -1,0 +1,800 @@
+[
+  {
+    "household": "户000",
+    "trip": "行000",
+    "day": "2026-09-15",
+    "received": "2026-09-30",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": false,
+    "delegated": [
+      "证件",
+      "登记"
+    ]
+  },
+  {
+    "household": "户001",
+    "trip": "行000",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户002",
+    "trip": "行001",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户004",
+    "trip": "行002",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件",
+      "登记"
+    ]
+  },
+  {
+    "household": "户005",
+    "trip": "行002",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户006",
+    "trip": "行003",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户008",
+    "trip": "行004",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件",
+      "登记"
+    ]
+  },
+  {
+    "household": "户009",
+    "trip": "行004",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户010",
+    "trip": "行005",
+    "day": "2026-09-15",
+    "received": "2026-09-30",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": false,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户011",
+    "trip": "行005",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户012",
+    "trip": "行006",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件",
+      "登记"
+    ]
+  },
+  {
+    "household": "户013",
+    "trip": "行006",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户015",
+    "trip": "行007",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户016",
+    "trip": "行008",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件",
+      "登记"
+    ]
+  },
+  {
+    "household": "户018",
+    "trip": "行009",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户019",
+    "trip": "行009",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户020",
+    "trip": "行010",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": false,
+    "delegated": [
+      "证件",
+      "登记"
+    ]
+  },
+  {
+    "household": "户022",
+    "trip": "行011",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户023",
+    "trip": "行011",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户025",
+    "trip": "行012",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户026",
+    "trip": "行013",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户027",
+    "trip": "行013",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户029",
+    "trip": "行014",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户030",
+    "trip": "行015",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": false,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户032",
+    "trip": "行016",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件",
+      "登记"
+    ]
+  },
+  {
+    "household": "户033",
+    "trip": "行016",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户034",
+    "trip": "行017",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户035",
+    "trip": "行017",
+    "day": "2026-09-15",
+    "received": "2026-09-30",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户036",
+    "trip": "行018",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件",
+      "登记"
+    ]
+  },
+  {
+    "household": "户037",
+    "trip": "行018",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户039",
+    "trip": "行019",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户040",
+    "trip": "行020",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": false,
+    "delegated": [
+      "证件",
+      "登记"
+    ]
+  },
+  {
+    "household": "户041",
+    "trip": "行020",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户043",
+    "trip": "行021",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户044",
+    "trip": "行022",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件",
+      "登记"
+    ]
+  },
+  {
+    "household": "户045",
+    "trip": "行022",
+    "day": "2026-09-15",
+    "received": "2026-09-30",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户046",
+    "trip": "行023",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户047",
+    "trip": "行023",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户048",
+    "trip": "行024",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件",
+      "登记"
+    ]
+  },
+  {
+    "household": "户050",
+    "trip": "行025",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": false,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户051",
+    "trip": "行025",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户053",
+    "trip": "行026",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户054",
+    "trip": "行027",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户055",
+    "trip": "行027",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户057",
+    "trip": "行028",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户058",
+    "trip": "行029",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户060",
+    "trip": "行030",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": false,
+    "delegated": [
+      "证件",
+      "登记"
+    ]
+  },
+  {
+    "household": "户061",
+    "trip": "行030",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户062",
+    "trip": "行031",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户064",
+    "trip": "行032",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件",
+      "登记"
+    ]
+  },
+  {
+    "household": "户065",
+    "trip": "行032",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户067",
+    "trip": "行033",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户068",
+    "trip": "行034",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件",
+      "登记"
+    ]
+  },
+  {
+    "household": "户069",
+    "trip": "行034",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户070",
+    "trip": "行035",
+    "day": "2026-09-15",
+    "received": "2026-09-30",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": false,
+    "delegated": [
+      "证件"
+    ]
+  },
+  {
+    "household": "户071",
+    "trip": "行035",
+    "day": "2026-09-15",
+    "received": "2026-09-17",
+    "activities": [
+      "证件",
+      "登记"
+    ],
+    "complete": true,
+    "delegated": [
+      "证件"
+    ]
+  }
+]
